@@ -1,0 +1,11 @@
+C:\Programming\CSharp\Livecoding_final\Livecoding_final\bin\Debug\netcoreapp3.1\Livecoding_final.exe
+C:\Programming\CSharp\Livecoding_final\Livecoding_final\bin\Debug\netcoreapp3.1\Livecoding_final.deps.json
+C:\Programming\CSharp\Livecoding_final\Livecoding_final\bin\Debug\netcoreapp3.1\Livecoding_final.runtimeconfig.json
+C:\Programming\CSharp\Livecoding_final\Livecoding_final\bin\Debug\netcoreapp3.1\Livecoding_final.runtimeconfig.dev.json
+C:\Programming\CSharp\Livecoding_final\Livecoding_final\bin\Debug\netcoreapp3.1\Livecoding_final.dll
+C:\Programming\CSharp\Livecoding_final\Livecoding_final\bin\Debug\netcoreapp3.1\Livecoding_final.pdb
+C:\Programming\CSharp\Livecoding_final\Livecoding_final\obj\Debug\netcoreapp3.1\Livecoding_final.csprojAssemblyReference.cache
+C:\Programming\CSharp\Livecoding_final\Livecoding_final\obj\Debug\netcoreapp3.1\Livecoding_final.AssemblyInfoInputs.cache
+C:\Programming\CSharp\Livecoding_final\Livecoding_final\obj\Debug\netcoreapp3.1\Livecoding_final.AssemblyInfo.cs
+C:\Programming\CSharp\Livecoding_final\Livecoding_final\obj\Debug\netcoreapp3.1\Livecoding_final.dll
+C:\Programming\CSharp\Livecoding_final\Livecoding_final\obj\Debug\netcoreapp3.1\Livecoding_final.pdb
